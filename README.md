@@ -21,7 +21,7 @@ I am learning Python step by step — from basics to advanced concepts.
 
 ---
 
-## 🚀 How to Use
+## How to Use
 - Open any `.ipynb` file in **Google Colab** or **Jupyter Notebook**.  
 - Try running the code and modify it to practice.  
 - Files are numbered for easier learning order.  
