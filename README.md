@@ -7,15 +7,6 @@ I am learning Python step by step — from basics to advanced concepts.
 
 ## 📂 Practice Files in Order
 
-# 🐍 Python Practice Repository
-
-This repository contains my Python practice files and Google Colab notebooks.  
-I am learning Python step by step — from basics to advanced concepts.  
-
----
-
-## 📂 Practice Files in Order
-
 1. [Day 1 - Introduction to Python](sk1.ipynb)  
 2. [Day 2 - Data Types and Variables](sk2.ipynb)  
 3. [Day 3 - User Input and Operators](sk3.ipynb)  
